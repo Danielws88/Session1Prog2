@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\danie\\documents\\github\\session1prog2\\session1\\intermediate\\build\\win64\\unrealeditor\\inc\\session1\\session1.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\danie\\documents\\github\\session1prog2\\session1\\intermediate\\build\\win64\\session1editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\danie\\documents\\github\\session1prog2\\session1\\intermediate\\build\\win64\\unrealeditor\\development\\session1\\definitions.session1.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Session1.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\danie\Documents\GitHub\Session1Prog2\Session1\Intermediate\Build\Win64\Session1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\danie\Documents\GitHub\Session1Prog2\Session1\Intermediate\Build\Win64\UnrealEditor\Development\Session1\Session1.cpp.obj"
+"C:\Users\danie\Documents\GitHub\Session1Prog2\Session1\Intermediate\Build\Win64\UnrealEditor\Development\Session1\Session1GameModeBase.cpp.obj"
+"C:\Users\danie\Documents\GitHub\Session1Prog2\Session1\Intermediate\Build\Win64\UnrealEditor\Development\Session1\Session1.init.gen.cpp.obj"
+"C:\Users\danie\Documents\GitHub\Session1Prog2\Session1\Intermediate\Build\Win64\UnrealEditor\Development\Session1\Session1GameModeBase.gen.cpp.obj"
+"C:\Users\danie\Documents\GitHub\Session1Prog2\Session1\Intermediate\Build\Win64\UnrealEditor\Development\Session1\Default.rc2.res"
+/OUT:"C:\Users\danie\Documents\GitHub\Session1Prog2\Session1\Intermediate\Build\Win64\UnrealEditor\Development\Session1\UnrealEditor-Session1.lib"

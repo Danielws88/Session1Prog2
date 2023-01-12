@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Session1",
+			"Path": "C:\\Users\\danie\\Documents\\GitHub\\Session1Prog2\\Session1\\Source\\Session1.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Session1Editor",
+			"Path": "C:\\Users\\danie\\Documents\\GitHub\\Session1Prog2\\Session1\\Source\\Session1Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
